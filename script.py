@@ -3,7 +3,7 @@ import time
 
 
 def init():
-    file1 = open('client.lua', 'r')
+    file1 = open('code.txt', 'r')
     
     while True:
         line = file1.readline()
